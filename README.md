@@ -1,6 +1,6 @@
 # LLM_PDF_Chatbot
 
-<h1 align="center">🤗💬 LLM Chat App - PDF-based Chatbot</h1>
+<h1 align="center">💬 LLM Chat App - PDF-based Chatbot</h1>
 
 ![LLM Chat App Screenshot](https://github.com/pvashish/LLM_PDF_Chat_App/blob/main/Capture.PNG)
 
@@ -20,6 +20,3 @@ The **LLM Chat App** is an innovative AI-powered chatbot that extracts valuable 
 - **Intelligent Question Answering:** Ask questions related to the PDF, and the chatbot will provide relevant answers.
 - **Semantic Search:** Utilizing the power of LangChain and FIAS vectorstore, the chatbot intelligently retrieves relevant sections of the PDF to provide precise answers.
 - **Customizable and Extensible:** Extend the capabilities of the chatbot by customizing the chat interface or integrating additional models.
-
-
-
